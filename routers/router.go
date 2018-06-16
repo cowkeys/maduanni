@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"maduanni/controllers"
+	"github.com/cowkeys/maduanni/controllers"
 	"github.com/astaxie/beego"
 )
 

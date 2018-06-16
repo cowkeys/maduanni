@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "maduanni/routers"
+	_ "github.com/cowkeys/maduanni/routers"
 	"github.com/astaxie/beego"
 )
 
